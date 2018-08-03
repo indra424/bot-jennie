@@ -1,8 +1,8 @@
 {
-  "name": "discord-music-bot",
+  "name": "music bot",
   "version": "2.0.0",
   "description": "Simple music bot for Discord servers.",
-  "main": "musicbot.js",
+  "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -24,7 +24,7 @@
     "discord.js": "^11.0.0",
     "ytdl-core": "^0.7.21",
     "node-opus": "^0.2.4"
-    "discord-music-bot":"^2.3.0"
+    "discord-music-bot": "^2.3.0"
   },
   "engines": {
     "node": ">=6.0.0"
