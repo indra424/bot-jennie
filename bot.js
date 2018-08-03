@@ -1,9 +1,9 @@
 var bot = require("discord-music-bot");
 
-var serverName = process.env.servername;
-var textChannelName = process.env.channelname;
-var voiceChannelName = process.env.voice;
+var serverName = "PRIVATE ROOM;
+var textChannelName = "jennie-room";
+var voiceChannelName = "KPOP AREA;
 var aliasesFile = aliases.json;
-var botToken = process.env.bot;
+var botToken = "NDcxOTYyNjkwNDUwMDk2MTI4.DkWmDQ.vYiYZePycJJlfbVesNolQZisFYQ";
 
 bot.run(serverName, textChannelName, voiceChannelName, aliasesFile, botToken);
