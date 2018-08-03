@@ -1,4 +1,4 @@
-var bot = require("discord-music-bot");
+var bot = require("./musicbot.js");
 
 var serverName = "PRIVATE ROOM";
 var textChannelName = "jennie-room";
